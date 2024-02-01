@@ -1,8 +1,8 @@
 #------ CREDITS - RAHUL RAM -------------------
 
-# key = input("Enter Key: ")
-# pt = input("Enter Plain Text: ")
-key = "nice"
+key = input("Enter Key: ")
+pt = input("Enter Plain Text: ")
+#key = "nice"
 et = "ahrhtsa"
 
 #Rank Key
